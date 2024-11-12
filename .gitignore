@@ -162,6 +162,4 @@ cython_debug/
 #.idea/
 
 # Datasets
-/test
-/train
-/val
+ch4net/
